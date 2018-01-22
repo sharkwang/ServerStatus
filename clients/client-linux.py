@@ -5,7 +5,7 @@
 # 时间: 20171106
 
 
-SERVER = "127.0.0.1"
+SERVER = "testland.orientsoft.cn"
 PORT = 35601
 USER = "USER" 
 PASSWORD = "USER_PASSWORD"
